@@ -1,5 +1,3 @@
-*.yml
-*.yaml
 *__pycache__*
 *_ext*
 /output
