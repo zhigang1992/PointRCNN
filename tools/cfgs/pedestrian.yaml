@@ -1,4 +1,4 @@
-CLASSES: People
+CLASSES: Pedestrian
 
 INCLUDE_SIMILAR_TYPE: True
 
